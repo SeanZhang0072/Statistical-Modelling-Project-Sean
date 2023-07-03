@@ -8,7 +8,9 @@
 ### (your step 2)
 
 ## Results
-![Alt text]([[url](https://xiuxiupro-material-center.meitudata.com/poster/8c98b88845630b4afc694e90ca81daa2.png)](https://616pic.com/image/nuli.html))
+![Alt text](https://xiuxiupro-material-center.meitudata.com/poster/8c98b88845630b4afc694e90ca81daa2.png)](https://616pic.com/image/nuli.html）
+[![Alt text](https://xiuxiupro-material-center.meitudata.com/poster/8c98b88845630b4afc694e90ca81daa2.png)](https://616pic.com/image/nuli.html)
+
 ## Challenges 
 (discuss challenges you faced in the project)
 
