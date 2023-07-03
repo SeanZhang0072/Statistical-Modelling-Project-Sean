@@ -1,15 +1,21 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+### In this project, my goal is to request data from an API according to specific requirements and to perform statistical analysis based on the acquired data.
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Step 1: First, I obtained information on shared bicycle stations in the city of Riga from the CityBike website, including station names, geographical coordinates, and the number of available bicycles.
+### Step 2: Using an API (I chose Foursquare after comparison), I sought information on specific places within a 1000m radius of each bicycle station. I chose bars because I was curious whether people might choose to ride bicycles to drink or ride home after drinking, to avoid drunk driving.
+### Step 3: The two sets of data were then restructured to consolidate their information into a single table.
+### Step 4: EDA was performed with an attempt to observe correlations between the data. The processed data was then put into an SQLite3 database, with searches made using SQL syntax.
+### Step 5: A regression model was established and the results were analyzed.
 
 ## Results
-![Alt text](https://xiuxiupro-material-center.meitudata.com/poster/8c98b88845630b4afc694e90ca81daa2.png)](https://616pic.com/image/nuli.html）
-[![Alt text](https://xiuxiupro-material-center.meitudata.com/poster/8c98b88845630b4afc694e90ca81daa2.png)](https://616pic.com/image/nuli.html)
+### Riga had a total of 41 shared bicycle stations based on the CityBike search. Most of them had 0-3 available bicycles. ![Alt text](https://drive.google.com/uc?export=view&id=1FDu9IgKGJoSr4jKdgL1CGkwHG5_4C6m7)
+
+### In terms of bars within a 1000m radius of bicycle stations in Riga, 38 stations were surrounded by more than 10 bars, with 28 stations having exactly 10 bars. 
+### No rating information could be found, so rankings could not be established.
+### In the final regression model, when analyzing the correlation between the number of available bicycles, the number of nearby bars, and their average distance, the result indicated almost no correlation. (See Figure)
 
 ## Challenges 
 (discuss challenges you faced in the project)
