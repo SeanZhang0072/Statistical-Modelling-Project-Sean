@@ -19,7 +19,13 @@
 ![Alt text](https://drive.google.com/uc?export=view&id=10fn6P6c6BE7vUYgYam_lmjmTk9C5Z8Kn)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+### There were numerous challenges during the process:
+
+### 1. Initially, I encountered limitations with the API usage - I had to stop before finding effective data due to the usage limit. (I solved this problem by creating a new account.)
+### 2. Bar information obtained was in the form of a dictionary in a single cell, and separating them was a significant challenge.
+### 3. During the EDA process, no obvious variables showed correlation, which had an impact on hypothesis formation. Fortunately, I had two curiosities, although the results showed that they are indeed not correlated.
+### 4. I have personal feelings for Riga, but it seems that Riga is not an ideal choice for a project research object: it has a small radius and fewer stations, but a lot of bars. There are many overlapping bars within a 1000m radius. I'm not sure how to handle this.
+### 5. I often find that the work in the earlier parts is not ideal when I reach the later parts. I want to make changes, but slight modifications often lead to a lot of errors, which take a long time to fix.
 
 ## Future Goals
-(what would you do if you had more time?)
+### If time permits, I would like to process data from several different cities at the same time. After all, data from a small city cannot represent much information. Meanwhile, I want to streamline my code from start to finish. Through this project, I've realized that my practical abilities are lacking. I often know what to do in my mind, but the code I write often lacks detail - an area I need to improve on. It would be better to list out the outline of what needs to be done first, to avoid frequent back-and-forth modifications. This actually wastes a lot of time.
